@@ -1,0 +1,16 @@
+{
+    "statistics": {
+        "mean_aqi": 41.5,
+        "max_aqi": 55.0,
+        "min_aqi": 12.0,
+        "hotspot_areas": [
+            "Pomeroon-Supenaam",
+            "Essequibo Islands-West Demerara",
+            "Demerara-Mahaica",
+            "Mahaica-Berbice",
+            "East Berbice-Corentyne",
+            "Upper Demerara-Berbice"
+        ]
+    },
+    "timestamp": "20241201_2056"
+}
